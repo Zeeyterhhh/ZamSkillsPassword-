@@ -1,0 +1,6 @@
+{
+  "name": "Zamfara Skills Passport",
+  "description": "A Web-Based Skills Verification and Employment Readiness Platform for Youth in Zamfara State, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
